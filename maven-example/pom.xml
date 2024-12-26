@@ -14,7 +14,13 @@
 	<version>1.0.0</version>
 	<name>hello-spring</name>
 	<description>Demo project for Spring Boot</description>
-
+        <repositories>
+          <repository>
+            <id>remote-repo</id>
+            <name>test remote repo</name>
+            <url>https://us-east1-maven.pkg.dev/joelfriedman-clean-gcb/maven-central-remote</url>
+          </repository>
+        <repository>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

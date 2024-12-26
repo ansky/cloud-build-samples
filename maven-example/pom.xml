@@ -21,6 +21,7 @@
             <url>https://us-east1-maven.pkg.dev/joelfriedman-clean-gcb/maven-central-remote</url>
           </repository>
         <repository>
+        <repositories>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

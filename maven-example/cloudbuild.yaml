@@ -27,4 +27,5 @@ steps:
 images: ["us-east1-docker.pkg.dev/$PROJECT_ID/$_REPO_NAME/hellospring"]
 options:
   logging: CLOUD_LOGGING_ONLY
+  requestedVerifyOption: VERIFIED
 # [END cloudbuild_maven]

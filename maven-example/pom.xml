@@ -18,7 +18,7 @@
           <repository>
             <id>remote-repo</id>
             <name>test remote repo</name>
-            <url>https://us-east1-maven.pkg.dev/joelfriedman-clean-gcb/maven-central-remote</url>
+            <url>https://us-east1-maven.pkg.dev/joelfriedman-clean-gcb/maven-central-remote-custom</url>
           </repository>
 	</repositories>
 	<properties>
